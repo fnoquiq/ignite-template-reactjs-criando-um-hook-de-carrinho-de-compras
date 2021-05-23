@@ -15,4 +15,4 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 - Exibição de mensagens de erro;
 - Entre outros.
 
-Nesse [link](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1) veremos com mais detalhes o que e como precisa ser feito 🚀
+Nesse [link](https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12) veremos com mais detalhes o que e como precisa ser feito 🚀
